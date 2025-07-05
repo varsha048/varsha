@@ -1,0 +1,109 @@
+.nav{
+  background-color:navy;
+  display: flex;
+  gap: 20px;
+  padding: 5px 2px;
+  justify-content: space-around;
+}
+.linku{
+  text-decoration: none;
+  margin: 40px;
+      color: white;
+}
+.ulsb{
+  font-size: 19px;
+  padding: 29px;
+      
+}
+.img1{
+  height: 143px;
+    width: 223px;
+    margin-left: 18px;
+}
+.about-section {
+  padding: 20px;
+}
+
+.about-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.about-image img {
+  max-width: 100%;
+    border-radius: 47px;
+    align-items: center;
+    margin-left: 178px;
+}
+
+.about-text {
+  flex: 1;
+  margin-right: 157px;
+}
+
+.about-text h2 {
+  margin-bottom: 10px;
+}
+
+.about-text p {
+  margin-bottom: 33px;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.stats div {
+  flex: 1 1 100px;
+  text-align: center;
+  background: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.bottom-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.bottom-boxes div {
+  flex: 1 1 100px;
+  text-align: center;
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+p{
+      font-size: 25px;
+}
+.center-section {
+  background: #003366; /* Dark blue shade similar to your screenshot */
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.center-section h2 {
+  margin-bottom: 10px;
+}
+
+.center-section p {
+  max-width: 100%;
+  margin: 0 auto 30px auto;
+}
