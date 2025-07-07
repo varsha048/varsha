@@ -15,7 +15,7 @@ Developing and maintaining an Alumni Directory so that alumni can locate each ot
 Alumni will raise funds through a small admittance fee, which will be contributed to an alumni scholarship or a charity of their choice.<br/>
 Participate actively in strategic and long range program planning to promote alumni awareness, engagement and commitment to the Institution.<br/>
 Recognize fellow alumni who are distinguished by their loyalty, professional achievement and community service.</p>
-    </div>
+</div>
   )
 }
 
